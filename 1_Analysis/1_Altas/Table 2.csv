@@ -1,0 +1,13 @@
+"group","cell_type","n","Percent"
+"CR","Mast cells",42450,0.569554017066495
+"CR","Macrophage cells",13978,0.187543605431224
+"CR","NK/T cells",10684,0.143347823753556
+"CR","Red blood cells",5853,0.0785300273707938
+"CR","B cells",987,0.0132426340363871
+"CR","Megakaryocyte",580,0.00778189234154457
+"non-CR","Mast cells",20534,0.31778998684516
+"non-CR","Macrophage cells",18457,0.285645747891356
+"non-CR","NK/T cells",18114,0.280337382960613
+"non-CR","Red blood cells",3583,0.0554515205447651
+"non-CR","B cells",2727,0.0422038226418014
+"non-CR","Megakaryocyte",1200,0.0185715391163043
