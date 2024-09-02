@@ -1,0 +1,7 @@
+"group","cell_type","n","Percent"
+"CR","Naive CD8+ T cells",5362,0.501871958068139
+"CR","Natural killer cells",3935,0.368307749906402
+"CR","Treg cells",1387,0.129820292025459
+"non-CR","Naive CD8+ T cells",7949,0.438831842773545
+"non-CR","Natural killer cells",8516,0.47013359832174
+"non-CR","Treg cells",1649,0.0910345589047146
